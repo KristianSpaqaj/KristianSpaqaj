@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KristianSpaqaj
 - 👀 I’m interested in Coding, playing video games and hanging out with friends.
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Ruby with future planning for Ruby on Rails. I am also doing CodeWars so sometimes I update a repository with challenges
 - 📫 How to reach me https://www.linkedin.com/in/kristian-spaqaj/
 
 <!---
